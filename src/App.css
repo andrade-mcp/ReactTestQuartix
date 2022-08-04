@@ -1,0 +1,58 @@
+.red-count {
+  color: #ff0002
+}
+
+.count {
+  font-size: 80px;
+  font-weight: 700;
+  text-align: center;
+  word-wrap: break-word;
+}
+
+.input {
+  width: 300px !important;
+  align-items: center;
+  border-radius: 10px !important;
+  height: 40px;
+  padding-left: 10px;
+}
+
+.history-title{
+  text-align: center;
+  font-size: 16px;
+  font-weight: 700;
+}
+
+.error-message{
+  text-align: center;
+  color: #ff0002
+}
+
+.list {
+  width: 300px !important;
+}
+
+.ml-5{
+  margin-left: 5px;
+}
+
+.mr-5{
+  margin-right: 5px;
+}
+
+.mt-10{
+  margin-top: 10px;
+}
+
+.mt-15{
+  margin-top: 15px;
+}
+
+.mb-10{
+  margin-bottom: 10px;
+}
+
+.br-10{
+  border-radius: 10px !important;
+}
+
